@@ -1,58 +1,84 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
-	<Property Name="varPersistentID:{105483C8-4FA6-4562-9834-3AC868B30F1F}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/autoTurn?</Property>
-	<Property Name="varPersistentID:{14CF8EAC-9FB8-40C2-A099-55F908FA4AB8}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis5</Property>
-	<Property Name="varPersistentID:{1613821E-86DE-4C50-970E-2A925927A208}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/EncoderRightDistance</Property>
-	<Property Name="varPersistentID:{1E05A47E-B9E3-4D2F-A21A-D2CFD00D5925}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton4</Property>
-	<Property Name="varPersistentID:{1F50EA76-DE2C-43E3-9498-DF037C6E8EC9}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Vision.lvlib/Direction</Property>
-	<Property Name="varPersistentID:{2043CC75-63CB-4EEF-AC6D-01E21FCF2C16}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis6</Property>
-	<Property Name="varPersistentID:{20A6B391-A3D3-4DFF-A05C-967BA78D4AEC}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis4</Property>
-	<Property Name="varPersistentID:{22637EAE-6145-4E6B-9545-3FBBA47B63DA}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/IntakeMotorValue</Property>
-	<Property Name="varPersistentID:{23D76DBC-C9DA-41F1-BC30-4301FC14150F}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Gyro.lvlib/yawGyro</Property>
-	<Property Name="varPersistentID:{2760BFF5-DB99-4439-8954-1CD721983BC7}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis5</Property>
-	<Property Name="varPersistentID:{281ABA11-E957-4E67-9847-26C268B2CE88}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis3</Property>
-	<Property Name="varPersistentID:{2B58693A-6583-4AB9-B56F-2D4D20B9FB16}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton9</Property>
-	<Property Name="varPersistentID:{2D8C11C5-6226-407F-9657-FA0F40224ADB}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton10</Property>
-	<Property Name="varPersistentID:{2F74F8F3-5863-46C4-9E63-904C69848D30}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton3</Property>
-	<Property Name="varPersistentID:{3161C36C-31B8-479F-829D-A813CCDA6959}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton1</Property>
-	<Property Name="varPersistentID:{32C32882-1680-49C4-9765-CEAD17A7D50F}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton2</Property>
-	<Property Name="varPersistentID:{38E589A5-FD6E-4FF8-8821-C77110634391}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Servos.lvlib/Intake Down?</Property>
-	<Property Name="varPersistentID:{4B6DDB30-E74D-41AA-AA95-8D0D00886783}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton11</Property>
-	<Property Name="varPersistentID:{4D296A57-2DC4-41B2-9FF1-DC0ED97B4805}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis4</Property>
-	<Property Name="varPersistentID:{4F3E6005-7DFE-404E-849E-60DB053F791F}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton1</Property>
-	<Property Name="varPersistentID:{543BFD89-7890-453F-B435-52BBCFEBAA92}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Vision.lvlib/Ball Y</Property>
-	<Property Name="varPersistentID:{5DB07878-03D4-4339-BBF4-00059D809CDA}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis2</Property>
-	<Property Name="varPersistentID:{6561C6FA-44FC-40E7-850F-9B16D0BF186E}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton11</Property>
-	<Property Name="varPersistentID:{6ABF8C99-EEFE-4935-B905-B7A3B5209E37}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Gyro.lvlib/Desired Angle</Property>
-	<Property Name="varPersistentID:{76C6CDF7-287B-4749-B580-AADA607437C9}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Vision.lvlib/Valid Target</Property>
-	<Property Name="varPersistentID:{7B26D35F-B832-4C14-8419-1A6388B9B428}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton4</Property>
-	<Property Name="varPersistentID:{7C92C60B-3444-4651-9FC7-3E12E3DE9A63}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis1</Property>
-	<Property Name="varPersistentID:{84E92D44-1D37-40BE-85BC-DE2FDD149321}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton12</Property>
-	<Property Name="varPersistentID:{8712455A-D3B5-4D41-915E-12593DF4D2AB}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis3</Property>
-	<Property Name="varPersistentID:{88BF2A99-7293-40D2-B439-387779A01F6A}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton12</Property>
-	<Property Name="varPersistentID:{8AA661A6-28ED-4358-913D-D5C6AEDE7607}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton6</Property>
-	<Property Name="varPersistentID:{9E468744-3404-4616-BE3E-A55C955E20E9}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis2</Property>
-	<Property Name="varPersistentID:{A26A0473-6A8C-44EB-B887-20B2486C22AD}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton7</Property>
-	<Property Name="varPersistentID:{A7F7C935-424C-4A88-9425-1ABA26F51402}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/Catapult Down?</Property>
-	<Property Name="varPersistentID:{A90D7FA3-4FC9-44B7-83EC-C00E990AE0A8}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Vision.lvlib/Valid Ball</Property>
-	<Property Name="varPersistentID:{AB79812B-7589-4A51-BEDA-75E6A974278E}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton6</Property>
-	<Property Name="varPersistentID:{AE3D974D-F95C-4341-8334-61F650661B91}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverJoystickAxis1</Property>
-	<Property Name="varPersistentID:{B48BD45E-3C65-4F1D-9435-D078FEBF3659}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/RightGoalHot?</Property>
-	<Property Name="varPersistentID:{C089AA7B-50CB-459A-B4DB-D90C1C601291}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton2</Property>
-	<Property Name="varPersistentID:{C61835F8-399B-4001-9D33-526B1349F6D4}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton3</Property>
-	<Property Name="varPersistentID:{C646C843-9C09-4008-B4F0-7B9BD0D892EB}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton8</Property>
-	<Property Name="varPersistentID:{C97A6006-9CCC-4389-903B-E099B58574F4}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/Encoder LeftDistance</Property>
-	<Property Name="varPersistentID:{CB7644FB-9024-45D8-9C76-40E570F0C35B}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton5</Property>
-	<Property Name="varPersistentID:{D3120518-A385-4640-9438-74F7255A29A0}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton8</Property>
-	<Property Name="varPersistentID:{D6C91479-FFF8-45F3-84F1-29260557F51C}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton9</Property>
-	<Property Name="varPersistentID:{DE24C6AC-E901-4457-893A-C4C8BB695F81}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/inAutonomous?</Property>
-	<Property Name="varPersistentID:{DEEB88EC-8D50-4A51-98A5-8B7BAE39F691}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorJoystickAxis6</Property>
-	<Property Name="varPersistentID:{E5C8C9EA-959A-460F-9DA9-770581C13C21}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Driver.lvlib/driverButton10</Property>
-	<Property Name="varPersistentID:{E767C604-7273-42EE-B9F3-C4BA6AEAEB71}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Vision.lvlib/Ball X</Property>
-	<Property Name="varPersistentID:{E883A84A-4A6B-4750-A698-B0F61F184222}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton5</Property>
-	<Property Name="varPersistentID:{F36485C7-0E75-4B39-A81E-E97AF8F851C2}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Operator.lvlib/operatorButton7</Property>
-	<Property Name="varPersistentID:{F74D3C87-071C-4364-AE45-782C92A10D56}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/Drive Stable?</Property>
-	<Property Name="varPersistentID:{FA8BF550-8C3A-4591-85D2-9EC91BEDBA31}" Type="Ref">/RT CompactRIO Target/Untitled Library 2.lvlib/Misc..lvlib/desiredDriveDistance</Property>
+	<Property Name="varPersistentID:{105483C8-4FA6-4562-9834-3AC868B30F1F}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/autoTurn?</Property>
+	<Property Name="varPersistentID:{14CF8EAC-9FB8-40C2-A099-55F908FA4AB8}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis5</Property>
+	<Property Name="varPersistentID:{1613821E-86DE-4C50-970E-2A925927A208}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/EncoderRightDistance</Property>
+	<Property Name="varPersistentID:{1E05A47E-B9E3-4D2F-A21A-D2CFD00D5925}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton4</Property>
+	<Property Name="varPersistentID:{1F50EA76-DE2C-43E3-9498-DF037C6E8EC9}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Direction</Property>
+	<Property Name="varPersistentID:{20138180-E816-4933-AEE6-099F17B22E3E}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/in intake</Property>
+	<Property Name="varPersistentID:{2043CC75-63CB-4EEF-AC6D-01E21FCF2C16}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis6</Property>
+	<Property Name="varPersistentID:{20A6B391-A3D3-4DFF-A05C-967BA78D4AEC}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis4</Property>
+	<Property Name="varPersistentID:{22637EAE-6145-4E6B-9545-3FBBA47B63DA}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/IntakeMotorValue</Property>
+	<Property Name="varPersistentID:{23D76DBC-C9DA-41F1-BC30-4301FC14150F}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Gyro.lvlib/yawGyro</Property>
+	<Property Name="varPersistentID:{2760BFF5-DB99-4439-8954-1CD721983BC7}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis5</Property>
+	<Property Name="varPersistentID:{277004DE-BAF0-4C46-BBC5-CF52456DF03D}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/StartFiringTime</Property>
+	<Property Name="varPersistentID:{281ABA11-E957-4E67-9847-26C268B2CE88}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis3</Property>
+	<Property Name="varPersistentID:{2A5992D0-4AE2-4B32-81C1-973A844BB2DC}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/TrussShot</Property>
+	<Property Name="varPersistentID:{2B58693A-6583-4AB9-B56F-2D4D20B9FB16}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton9</Property>
+	<Property Name="varPersistentID:{2B92A1A8-D654-42D8-AA19-F6FB0E2D2275}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/RTAngle</Property>
+	<Property Name="varPersistentID:{2D8C11C5-6226-407F-9657-FA0F40224ADB}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton10</Property>
+	<Property Name="varPersistentID:{2F74F8F3-5863-46C4-9E63-904C69848D30}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton3</Property>
+	<Property Name="varPersistentID:{3161C36C-31B8-479F-829D-A813CCDA6959}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton1</Property>
+	<Property Name="varPersistentID:{32C32882-1680-49C4-9765-CEAD17A7D50F}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton2</Property>
+	<Property Name="varPersistentID:{38E589A5-FD6E-4FF8-8821-C77110634391}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Servos.lvlib/Intake Down?</Property>
+	<Property Name="varPersistentID:{468281CD-C138-447F-9AB8-9BA919FA832D}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Kinect Status</Property>
+	<Property Name="varPersistentID:{49FE8F91-7105-4784-A4B4-C81D53470B35}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/Test</Property>
+	<Property Name="varPersistentID:{4B6DDB30-E74D-41AA-AA95-8D0D00886783}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton11</Property>
+	<Property Name="varPersistentID:{4D296A57-2DC4-41B2-9FF1-DC0ED97B4805}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis4</Property>
+	<Property Name="varPersistentID:{4DAEBDC2-9F80-4DA7-9CC9-42216C3685BE}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/Auton Distance</Property>
+	<Property Name="varPersistentID:{4F3E6005-7DFE-404E-849E-60DB053F791F}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton1</Property>
+	<Property Name="varPersistentID:{50138E2D-C5AC-4A40-AD31-58BD5F7D3662}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Auto Mode</Property>
+	<Property Name="varPersistentID:{50519F4D-B84C-4833-871D-515DB55DAE63}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Auto State</Property>
+	<Property Name="varPersistentID:{543BFD89-7890-453F-B435-52BBCFEBAA92}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Ball Y</Property>
+	<Property Name="varPersistentID:{562AF6FA-B12E-43FC-ADAA-3D931DFF9E58}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Y Motor Value</Property>
+	<Property Name="varPersistentID:{5BC09BC1-3554-48C9-AABD-B4015C0739E7}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/RotatePWR</Property>
+	<Property Name="varPersistentID:{5DB07878-03D4-4339-BBF4-00059D809CDA}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis2</Property>
+	<Property Name="varPersistentID:{6561C6FA-44FC-40E7-850F-9B16D0BF186E}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton11</Property>
+	<Property Name="varPersistentID:{65A89624-28EE-4D8D-AD04-B7A289E27402}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Desired Intake Speed</Property>
+	<Property Name="varPersistentID:{6ABF8C99-EEFE-4935-B905-B7A3B5209E37}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Gyro.lvlib/Desired Angle</Property>
+	<Property Name="varPersistentID:{6C38B763-533F-468A-BE08-DB3C416109EE}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/Encoder Right</Property>
+	<Property Name="varPersistentID:{6F8F6FE7-DD54-4F97-8E2B-AB133F0721E6}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Ball X Time</Property>
+	<Property Name="varPersistentID:{6FDB8E2A-C19D-4135-B2E1-5334DF07DB68}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Intake RPM</Property>
+	<Property Name="varPersistentID:{71156387-C04F-4E80-B237-719D85259A90}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/LTAngle</Property>
+	<Property Name="varPersistentID:{76C6CDF7-287B-4749-B580-AADA607437C9}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Valid Target</Property>
+	<Property Name="varPersistentID:{7B26D35F-B832-4C14-8419-1A6388B9B428}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton4</Property>
+	<Property Name="varPersistentID:{7C92C60B-3444-4651-9FC7-3E12E3DE9A63}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis1</Property>
+	<Property Name="varPersistentID:{7D5F80B5-1A50-478E-822E-31D5F843B498}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/AutoDistance</Property>
+	<Property Name="varPersistentID:{84E92D44-1D37-40BE-85BC-DE2FDD149321}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton12</Property>
+	<Property Name="varPersistentID:{8712455A-D3B5-4D41-915E-12593DF4D2AB}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis3</Property>
+	<Property Name="varPersistentID:{88BF2A99-7293-40D2-B439-387779A01F6A}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton12</Property>
+	<Property Name="varPersistentID:{8AA661A6-28ED-4358-913D-D5C6AEDE7607}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton6</Property>
+	<Property Name="varPersistentID:{8DEF210A-2F47-4AB6-82F3-7B4FC6A4555E}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/State Machine State</Property>
+	<Property Name="varPersistentID:{9E468744-3404-4616-BE3E-A55C955E20E9}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis2</Property>
+	<Property Name="varPersistentID:{9F3A0346-2C3F-4486-97D9-35065E7C5975}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Robot Mode</Property>
+	<Property Name="varPersistentID:{A26A0473-6A8C-44EB-B887-20B2486C22AD}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton7</Property>
+	<Property Name="varPersistentID:{A7F7C935-424C-4A88-9425-1ABA26F51402}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Catapult Down?</Property>
+	<Property Name="varPersistentID:{A90D7FA3-4FC9-44B7-83EC-C00E990AE0A8}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Valid Ball</Property>
+	<Property Name="varPersistentID:{AB79812B-7589-4A51-BEDA-75E6A974278E}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton6</Property>
+	<Property Name="varPersistentID:{AE3D974D-F95C-4341-8334-61F650661B91}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverJoystickAxis1</Property>
+	<Property Name="varPersistentID:{B48BD45E-3C65-4F1D-9435-D078FEBF3659}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/RightGoalHot?</Property>
+	<Property Name="varPersistentID:{B6BC7C4D-5A80-4017-8981-87AB77085C57}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Ball Voltage</Property>
+	<Property Name="varPersistentID:{C089AA7B-50CB-459A-B4DB-D90C1C601291}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton2</Property>
+	<Property Name="varPersistentID:{C61835F8-399B-4001-9D33-526B1349F6D4}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton3</Property>
+	<Property Name="varPersistentID:{C646C843-9C09-4008-B4F0-7B9BD0D892EB}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton8</Property>
+	<Property Name="varPersistentID:{C6FC5CE0-44A3-46AF-B44E-9516BAB0EDC7}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/HighPressure</Property>
+	<Property Name="varPersistentID:{C97A6006-9CCC-4389-903B-E099B58574F4}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/Encoder LeftDistance</Property>
+	<Property Name="varPersistentID:{CB7644FB-9024-45D8-9C76-40E570F0C35B}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton5</Property>
+	<Property Name="varPersistentID:{CC81BA20-3EE8-443E-B08D-407923B71830}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Cat Down Voltage</Property>
+	<Property Name="varPersistentID:{CCBC36A4-5475-4E30-ACB4-4FF6C4F803AD}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Sensors-Actuators.lvlib/Motor.lvlib/Encoder Left</Property>
+	<Property Name="varPersistentID:{D3120518-A385-4640-9438-74F7255A29A0}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton8</Property>
+	<Property Name="varPersistentID:{D6C91479-FFF8-45F3-84F1-29260557F51C}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton9</Property>
+	<Property Name="varPersistentID:{DE24C6AC-E901-4457-893A-C4C8BB695F81}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/inAutonomous?</Property>
+	<Property Name="varPersistentID:{DEEB88EC-8D50-4A51-98A5-8B7BAE39F691}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorJoystickAxis6</Property>
+	<Property Name="varPersistentID:{E5C8C9EA-959A-460F-9DA9-770581C13C21}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Driver.lvlib/driverButton10</Property>
+	<Property Name="varPersistentID:{E767C604-7273-42EE-B9F3-C4BA6AEAEB71}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Vision.lvlib/Ball X</Property>
+	<Property Name="varPersistentID:{E883A84A-4A6B-4750-A698-B0F61F184222}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton5</Property>
+	<Property Name="varPersistentID:{F36485C7-0E75-4B39-A81E-E97AF8F851C2}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Operator.lvlib/operatorButton7</Property>
+	<Property Name="varPersistentID:{F74D3C87-071C-4364-AE45-782C92A10D56}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/Drive Stable?</Property>
+	<Property Name="varPersistentID:{F7DA1339-3526-49D9-BD2E-35E66FA8EE70}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/FireDelay</Property>
+	<Property Name="varPersistentID:{F9F78D0A-2FD7-49EC-ACED-7025128D4562}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Quick Change Params.lvlib/StrafePWR</Property>
+	<Property Name="varPersistentID:{FA8BF550-8C3A-4591-85D2-9EC91BEDBA31}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Misc..lvlib/desiredDriveDistance</Property>
+	<Property Name="varPersistentID:{FDFDA9ED-90EA-42DF-8973-08E130C64E82}" Type="Ref">/RT CompactRIO Target/Shared Variables.lvlib/Dashboard Variables.lvlib/Drive Mode</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -165,13 +191,17 @@ DirectoryIndex index.htm
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
-		<Item Name="Untitled Library 2.lvlib" Type="Library" URL="../Untitled Library 2.lvlib"/>
+		<Item Name="Shared Variables.lvlib" Type="Library" URL="../Shared Variables.lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dual Sonar and Perpendicular Distance.vi" Type="VI" URL="../Dual Sonar and Perpendicular Distance.vi"/>
 		<Item Name="Fetch State Selector.vi" Type="VI" URL="../Fetch State Selector.vi"/>
 		<Item Name="Arial Assist Ball Fetch.vi" Type="VI" URL="../Arial Assist Ball Fetch.vi"/>
 		<Item Name="Drive-Rotate-Camera_Track.vi" Type="VI" URL="../Drive-Rotate-Camera_Track.vi"/>
 		<Item Name="Latch.vi" Type="VI" URL="../Latch.vi"/>
+		<Item Name="Deadzone.vi" Type="VI" URL="../Deadzone.vi"/>
+		<Item Name="Drive Data Logger.vi" Type="VI" URL="../Drive Data Logger.vi"/>
+		<Item Name="Signal Pulse.vi" Type="VI" URL="../Signal Pulse.vi"/>
+		<Item Name="Delay.vi" Type="VI" URL="../Delay.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
@@ -184,10 +214,8 @@ DirectoryIndex index.htm
 				<Item Name="WPI_CameraWhite Balance Values.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraWhite Balance Values.ctl"/>
 				<Item Name="WPI_CameraExposure Values.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraExposure Values.ctl"/>
 				<Item Name="FPGA_DIOPWMChannel.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DIO/FPGA_DIOPWMChannel.ctl"/>
-				<Item Name="WPI_DriverStationGet Analog Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Analog Input.vi"/>
 				<Item Name="WPI_DriverStationCommDataCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationCommDataCache.vi"/>
 				<Item Name="WPI_DriverStationCommDataCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationCommDataCacheOp.ctl"/>
-				<Item Name="WPI_DriverStationGet Alliance Info.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Alliance Info.vi"/>
 				<Item Name="WPI_DriverStationAllianceInfoCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationAllianceInfoCache.vi"/>
 				<Item Name="WPI_DriverStationAllianceInfoCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationAllianceInfoCacheOp.ctl"/>
 				<Item Name="WPI_DriverStationAllianceInfo.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationAllianceInfo.ctl"/>
@@ -372,12 +400,7 @@ DirectoryIndex index.htm
 				<Item Name="WPI_CameraWait for Raw Image String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraWait for Raw Image String.vi"/>
 				<Item Name="WPI_CameraGet Image Notifier Internal.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGet Image Notifier Internal.vi"/>
 				<Item Name="WPI_CameraDecodeJPEGString.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraDecodeJPEGString.vi"/>
-				<Item Name="FPGA_UtilitiesLED State.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesLED State.ctl"/>
-				<Item Name="FPGA_UtilitiesLED Source.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesLED Source.ctl"/>
-				<Item Name="WPI_UtilitiesFRC LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesFRC LEDs.vi"/>
 				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
-				<Item Name="FPGA_UtilitiesWrite LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesWrite LED.vi"/>
-				<Item Name="FPGA_UtilitiesRead LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesRead LED.vi"/>
 				<Item Name="WPI_AnalogModuleDevStatus.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleDevStatus.ctl"/>
 				<Item Name="FPGA_TypedefAnalogModule.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Typedef/FPGA_TypedefAnalogModule.ctl"/>
 				<Item Name="FPGA_AIOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AI/FPGA_AIOpen.vi"/>
@@ -522,7 +545,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_RobotDriveOpen4MotorWithVictor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithVictor.vi"/>
 				<Item Name="WPI_RobotDriveOpen4MotorWithCANJaguar.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithCANJaguar.vi"/>
 				<Item Name="WPI_RobotDriveOpen4MotorWithExistingMotors.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithExistingMotors.vi"/>
-				<Item Name="WPI_RobotDriveDelayAndUpdateSafety.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveDelayAndUpdateSafety.vi"/>
 				<Item Name="WPI_RobotDriveERRHolonomic.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveERRHolonomic.vi"/>
 				<Item Name="WPI_RobotDriveNormalize 4.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveNormalize 4.vi"/>
 				<Item Name="WPI_RobotDriveRotateVector.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveRotateVector.vi"/>
@@ -680,7 +702,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_EncoderStart.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderStart.vi"/>
 				<Item Name="WPI_EncoderGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderGetSetRefNum.vi"/>
 				<Item Name="WPI_EncoderRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderRefNum Registry Set.vi"/>
-				<Item Name="WPI_DriverStationGet Digital Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Digital Input.vi"/>
 				<Item Name="WPI_MotorControlSafetyTest.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlSafetyTest.vi"/>
 				<Item Name="WPI_MotorControlSafetyConfig.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlSafetyConfig.vi"/>
 				<Item Name="WPI_CounterToDigitalSource.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Counter/WPI_CounterToDigitalSource.vi"/>
@@ -703,14 +724,90 @@ DirectoryIndex index.htm
 				<Item Name="WPI_SolenoidValue.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidValue.ctl"/>
 				<Item Name="WPI_SolenoidSetEnum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidSetEnum.vi"/>
 				<Item Name="WPI_SolenoidSet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidSet.vi"/>
-				<Item Name="WPI_SolenoidGetBool.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/Deprecated/WPI_SolenoidGetBool.vi"/>
-				<Item Name="WPI_SolenoidGetEnum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGetEnum.vi"/>
-				<Item Name="WPI_SolenoidGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGet.vi"/>
 				<Item Name="WPI_AnalogChannelGetAverageVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetAverageVoltage.vi"/>
 				<Item Name="WPI_AnalogModuleGetAverageVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetAverageVoltage.vi"/>
 				<Item Name="WPI_SolenoidRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidRefNum Registry Get.vi"/>
-				<Item Name="WPI_MotorControlRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Get.vi"/>
 				<Item Name="WPI_EncoderConfigureTimer.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderConfigureTimer.vi"/>
+				<Item Name="FPGA_ReadAnalogTriggerOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_ReadAnalogTriggerOutput.vi"/>
+				<Item Name="WPI_AnalogTriggerGetOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogTrigger/WPI_AnalogTriggerGetOutput.vi"/>
+				<Item Name="FPGA_AnalogTriggerWriteUpperLimit.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerWriteUpperLimit.vi"/>
+				<Item Name="FPGA_AnalogTriggerWriteLowerLimit.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerWriteLowerLimit.vi"/>
+				<Item Name="FPGA_AnalogTriggerSource.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerSource.ctl"/>
+				<Item Name="WPI_AnalogTriggerVoltsToValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogTrigger/WPI_AnalogTriggerVoltsToValue.vi"/>
+				<Item Name="FPGA_AnalogTriggerConvertSourceToFPGA.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerConvertSourceToFPGA.vi"/>
+				<Item Name="FPGA_AnalogTriggerWriteConfiguration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerWriteConfiguration.vi"/>
+				<Item Name="FPGA_AnalogTriggerOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AnalogTrigger/FPGA_AnalogTriggerOpen.vi"/>
+				<Item Name="WPI_AnalogTriggerErrList.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogTrigger/WPI_AnalogTriggerErrList.vi"/>
+				<Item Name="WPI_AnalogTriggerCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogTrigger/WPI_AnalogTriggerCache.vi"/>
+				<Item Name="WPI_AnalogTriggerOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogTrigger/WPI_AnalogTriggerOpen.vi"/>
+				<Item Name="WPI_EncoderRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderRefNum Registry Get.vi"/>
+				<Item Name="FPGA_EncoderReadTimerOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderReadTimerOutput.vi"/>
+				<Item Name="FPGA_EncoderReadOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderReadOutput.vi"/>
+				<Item Name="FPGA_CounterReadTimerOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterReadTimerOutput.vi"/>
+				<Item Name="FPGA_CounterReadOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterReadOutput.vi"/>
+				<Item Name="WPI_EncoderGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderGet.vi"/>
+				<Item Name="WPI_MotorControlRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Get.vi"/>
+				<Item Name="WPI_EncoderReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderReset.vi"/>
+				<Item Name="WPI_AnalogModuleGetVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetVoltage.vi"/>
+				<Item Name="WPI_AnalogChannelGetVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetVoltage.vi"/>
+				<Item Name="WPI_DriverStationGet Analog Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Analog Input.vi"/>
+				<Item Name="WPI_DriverStationGet Alliance Info.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Alliance Info.vi"/>
+				<Item Name="WPI_DriverStationGet Digital Input.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Digital Input.vi"/>
+				<Item Name="WPI_DriverStationSet Low Priority Dashboard Data.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationSet Low Priority Dashboard Data.vi"/>
+				<Item Name="FPGA_UtilitiesLED State.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesLED State.ctl"/>
+				<Item Name="FPGA_UtilitiesLED Source.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesLED Source.ctl"/>
+				<Item Name="FPGA_UtilitiesRead LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesRead LED.vi"/>
+				<Item Name="FPGA_UtilitiesWrite LED.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Utilities/FPGA_UtilitiesWrite LED.vi"/>
+				<Item Name="WPI_UtilitiesFRC LEDs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesFRC LEDs.vi"/>
+				<Item Name="WPI_DriverStationGet Kinect Vertices.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Kinect Vertices.vi"/>
+				<Item Name="Skeleton Vertex Index.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/Skeleton Vertex Index.ctl"/>
+				<Item Name="WPI_DriverStationSet High Priority Dashboard Data.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationSet High Priority Dashboard Data.vi"/>
+				<Item Name="Vector4.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/Vector4.ctl"/>
+				<Item Name="WPI_DriverStationGet Kinect Header.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Kinect Header.vi"/>
+				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
+				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
+				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
+				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
+				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
+				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
+				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
+				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
+				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
+				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
+				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
+				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
+				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
+				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
+				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
+				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
+				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
+				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
+				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
+				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
+				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
+				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
+				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
+				<Item Name="Read Lines From File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File.vi"/>
+				<Item Name="Read From Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (string).vi"/>
+				<Item Name="Read From Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (I64).vi"/>
+				<Item Name="Read From Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File (DBL).vi"/>
+				<Item Name="Read From Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read From Spreadsheet File.vi"/>
+				<Item Name="WPI_DriverStationSet Digital Output.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationSet Digital Output.vi"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="WPI_GyroClose.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Gyro/WPI_GyroClose.vi"/>
+			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Schmitt Trigger.vi" Type="VI" URL="/&lt;userlib&gt;/logic/Schmitt Trigger.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -722,11 +819,8 @@ DirectoryIndex index.htm
 			<Item Name="2014 State Machine.vi" Type="VI" URL="../2014 State Machine.vi"/>
 			<Item Name="Stable.vi" Type="VI" URL="../Stable.vi"/>
 			<Item Name="Differential Steering.vi" Type="VI" URL="../Differential Steering.vi"/>
-			<Item Name="Drive Data Logger.vi" Type="VI" URL="../Drive Data Logger.vi"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
+			<Item Name="SM Data Logger.vi" Type="VI" URL="../SM Data Logger.vi"/>
+			<Item Name="Rate Selective Filter.vi" Type="VI" URL="../Rate Selective Filter.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -736,10 +830,10 @@ DirectoryIndex index.htm
 				<Property Name="Bld_buildCacheID" Type="Str">{8918E54B-57F8-4157-9A9B-E5B1DDE9D5DC}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">Build Robot Main.vi into an EXE that will run at startup on the cRIO.</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
+				<Property Name="Bld_compilerOptLevel" Type="Int">0</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Cheeto/Documents/LabVIEW Data/Arial Assist Robot Code/Builds</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Allan/Documents/LabVIEW Data/NI_AB_PROJECTNAME/Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{818764A5-CF2F-459D-99A2-FC861F69E9D6}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
@@ -752,7 +846,7 @@ DirectoryIndex index.htm
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{731BD68C-E215-4DF6-AEFD-CC6489E4E327}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{31286959-9B80-4FD1-A9A5-FE9BE19109ED}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/Robot Main.vi</Property>
@@ -761,7 +855,6 @@ DirectoryIndex index.htm
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2008 NI</Property>
 				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
